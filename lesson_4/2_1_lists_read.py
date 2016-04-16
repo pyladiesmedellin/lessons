@@ -33,11 +33,3 @@ print "los elementos incluídos desde la posición 1 a la posición 2: ", lista_
 print "los elementos incluídos desde la posición 1 a la posición 3: ", lista_de_asignaturas[1:3]
 # los elementos incluídos desde la posición 1 a la posición 3:  ['biologia', 'matematicas']
 
-
-"""
-Caracteristicas:
- - tamaño variable
- - se accede a elementos internos usando indice.
-"""
-
-
