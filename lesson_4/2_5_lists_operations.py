@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+# recurso de referencia: http://www.tutorialspoint.com/python/python_lists.htm
 lista_de_asignaturas_teoricas = [ 'matematicas', 'lengua castellana']
 lista_de_asignaturas_laboratorio = ['fisica', 'biologia', 'programacion']
 

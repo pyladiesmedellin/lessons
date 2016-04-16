@@ -33,3 +33,14 @@ print "los elementos incluídos desde la posición 1 a la posición 2: ", lista_
 print "los elementos incluídos desde la posición 1 a la posición 3: ", lista_de_asignaturas[1:3]
 # los elementos incluídos desde la posición 1 a la posición 3:  ['biologia', 'matematicas']
 
+# imprime los elementos incluídos desde la posición 1(incluido 1) hasta el ultimo elemento
+print "los elementos incluídos desde la posición 1 a la ultima posición: ", lista_de_asignaturas[1:]
+# los elementos incluídos desde la posición 1 a la ultima posición:  ['biologia', 'matematicas', 'programacion']
+
+# imprime los elementos incluídos desde el primer elemento hasta la posición 3(excluyendo 3)
+print "los elementos incluídos desde la primera posición a la posición 3(excluyendo 3): ", lista_de_asignaturas[:3]
+# los elementos incluídos desde la primera posición a la posición 3(excluyendo 3):  ['fisica', 'biologia', 'matematicas']
+
+
+
+
