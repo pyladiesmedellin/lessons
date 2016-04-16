@@ -19,10 +19,6 @@ print "contenido de la lista vacía"
 print lista_vacia
 # []
 
-# el metodo len() es usado para obtener la cantidad de elementos en una lista
-print "cantidad de elementos en la lista lista_de_asignaturas_mas_extensa"
-print len(lista_de_asignaturas_mas_extensa)
-
 
 """
 Caracteristicas:
